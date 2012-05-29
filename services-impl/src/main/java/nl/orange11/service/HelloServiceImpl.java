@@ -16,7 +16,7 @@ public class HelloServiceImpl implements HelloService {
 
         Timestamp timestamp = new Timestamp(0L);
 
-        timestamp.getNanos();
+        //timestamp.getNanos();
 
 
         return "hello " + name;
