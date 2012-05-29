@@ -16,9 +16,9 @@
     </properties>
 
     <scm>
-        <connection>scm:git:https://github.com/path_to_repository</connection>
-        <developerConnection>scm:git:https://github.com/path_to_repository</developerConnection>
-        <url>scm:svn:svn+ssh://jteam@vault.jteam.nl/data/svn/pif/tags/pif-2.1</url>
+        <connection>scm:git:https://github.com/jelmerk/maven-playground.git</connection>
+        <developerConnection>scm:git:https://github.com/jelmerk/maven-playground.git</developerConnection>
+        <url>scm:git:https://github.com/jelmerk/maven-playground.git</url>
     </scm>
     
     <dependencyManagement>
