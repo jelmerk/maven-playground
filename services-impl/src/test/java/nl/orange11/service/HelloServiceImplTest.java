@@ -17,7 +17,7 @@ public class HelloServiceImplTest extends TestCase {
 
     @Test
     public void testSayHello() throws Exception {
-        assertEquals("hello jelmer1004", service.sayHello("jelmer"));
+        assertEquals("hello jelmer", service.sayHello("jelmer"));
     }
 
 }
